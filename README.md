@@ -1,16 +1,27 @@
-### Hi there 👋
+<h3> Welcome to Coding Jeff </h3>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=codingjeff01&label=Profile%20Visits&color=1b7565&style=flat" />
+<div align="left">
+    <img src="https://github.com/codingjefferson/images/blob/main/1500x500.png" height="200"/>
+</div>
 
-<!--
-**codingjeff01/codingjeff01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Find us on</h3>
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://instagram.com/codingjeff">
+    <img align="center" src="https://github.com/codingjefferson/images/blob/main/instagram.svg" alt="codingjeff" height="30" width="40" />
+</a>
+<a href="https://youtube.com/@codingjeff">
+    <img align="center" src="https://github.com/codingjefferson/images/blob/main/youtube.svg" alt="codingjeff" height="30" width="40" />
+</a>
+
+
+<h3>Support Us!</h3>
+
+-----
+
+<a href="https://ko-fi.com/codingjeff">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" height="26" />
+</a>
+
+<!-- PS: ⭐ This is an alt account. If you find this, there is one person behind this account, meaning that this account is their alt account.-->
