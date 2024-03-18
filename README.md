@@ -11,10 +11,6 @@
 <a href="https://instagram.com/codingjeff">
     <img align="center" src="https://github.com/codingjefferson/images/blob/main/instagram.svg" alt="codingjeff" height="30" width="40" />
 </a>
-<a href="https://youtube.com/@codingjeff">
-    <img align="center" src="https://github.com/codingjefferson/images/blob/main/youtube.svg" alt="codingjeff" height="30" width="40" />
-</a>
-
 
 <h3>Support Us!</h3>
 
