@@ -16,8 +16,8 @@
 
 -----
 
-<a href="https://ko-fi.com/codingjeff">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" height="26" />
+<a href="https://buymeacoffee.com/codingjeff">
+    <img align="left" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" height="36" alt="jeffersonrj14" />
 </a>
 
 <!-- PS: ⭐ This is an alt account. If you find this, there is one person behind this account, meaning that this account is their alt account.-->
